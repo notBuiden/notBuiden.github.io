@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>notBuiden.github.io</id>
+    <title>buidenh's Blog</title>
+    <updated>2021-08-27T03:57:32.984Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="notBuiden.github.io"/>
+    <link rel="self" href="notBuiden.github.io/atom.xml"/>
+    <rights>All rights reserved 2021, buidenh's Blog</rights>
+</feed>
